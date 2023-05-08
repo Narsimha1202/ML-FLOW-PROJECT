@@ -11,9 +11,9 @@ st.set_page_config(
 )
 
 
-st.write("# Heya Everyone ! 👋")
+st.write("# Heya Everyone !")
 
-st.markdown("# :red[Abdul Jaweed]")
+st.markdown("# :red[Narsimha Reddy]")
 st.subheader(" :blue[Data Scientist]")
 space()
 
@@ -25,7 +25,3 @@ st.markdown(
 )
 
 space()
-
-st.write("#### Connect me on [LinkedIn](https://www.linkedin.com/in/abdul-jaweed-datascientist/)")
-st.write("#### Follow me on [GitHub](https://github.com/Abdul-Jaweed)")
-st.write("#### Follow me on [Medium](https://medium.com/@abduljaweed)")
